@@ -11,10 +11,10 @@ Current Position Description
 
 `2018-2022`
 __Union College__
-D
+Majors in History and Political Science, Minor in English
 
-`1995 - 1997`
-__University Name__
+`2014-2018`
+__Emma Willard School__
 Degree Awarded 
 
 ## Awards
