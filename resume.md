@@ -26,44 +26,23 @@ Name of Award, Organization
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+## Ocupation
 
-`1994`
-Article Title, Journal Title
+`August 2020-Present`
+__Head Residential Advisor__, Union College
 
-`1994`
-Article Title, Journal Title
+- The Head Residential Advisor addresses and mediates all staff conflicts, builds a community within the staff, and communicates openly and honestly to the Residence Director while facilitating the social, academic, and personal adjustment of students to the residence hall by developing a community between residents as members of a floor through various programs and interactions while upholding and enforcing college policy.
 
-### Books
+`July 2021-August 2021`
+__Student Researcher__, Union College 
 
-`1994`
-Book Title, Journal Title
+- Assisted in creating a digital scholarly edition of the diaries of Jonathan Pearson (1813-87), a Union student, professor, librarian, treasurer, and trustee.  This experience enabled exploration of the digital humanities, including digitization, digital publishing, scholarly editing, archival research, and computational text analysis.
 
-`1994`
-Book Title, Journal Title
+## Awards and Extracurriculars 
 
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-
+- Phi Alpha Theta, History Honor Society | Sigma Tau Delta, English Honor Society 
+Union College Pre-Law Society | Union College Finance Committee  
+Union College Liaison Committee for Campus Facilities | Mock Trial Regional Champion, 2017
 
 <!-- ### Footer
 
