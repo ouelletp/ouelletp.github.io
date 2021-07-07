@@ -11,18 +11,13 @@ Current Position Description
 
 `2018-2022`
 __Union College__
-Majors in History and Political Science, Minor in English
+_Majors in History and Political Science, Minor in English_
 
 `2014-2018`
 __Emma Willard School__
-Degree Awarded 
+_Degree Awarded_ 
 
 ## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
@@ -40,9 +35,7 @@ __Student Researcher__, Union College
 
 ## Awards and Extracurriculars 
 
-- Phi Alpha Theta, History Honor Society | Sigma Tau Delta, English Honor Society 
-Union College Pre-Law Society | Union College Finance Committee  
-Union College Liaison Committee for Campus Facilities | Mock Trial Regional Champion, 2017
+- Phi Alpha Theta, _History Honor Society_; Sigma Tau Delta, _English Honor Society_; Union College Pre-Law Society; Finance Committee, _Union College_; Liaison Committee for Campus Facilities, _Union College_; Mock Trial Regional Champion, 2017
 
 <!-- ### Footer
 
