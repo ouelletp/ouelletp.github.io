@@ -9,9 +9,9 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2018-2022`
+__Union College__
+D
 
 `1995 - 1997`
 __University Name__
