@@ -12,7 +12,7 @@ owner:
   email: ouelletp@union.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: https://www.linkedin.com/in/paxton-ouellette-6a504b18a/
+  linkedin: paxton-ouellette-6a504b18a/
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
@@ -22,7 +22,7 @@ owner:
     analytics:
     verify:
     scholar: #id
-  facebook: https://www.facebook.com/paxtonouellette/
+  facebook: paxtonouellette
   instagram: paxtonouellette
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
