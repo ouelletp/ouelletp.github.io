@@ -8,11 +8,13 @@ menutitle: Resume
 
 `2018-2022`
 __Union College__
-_Majors in History and Political Science, Minor in English_
+
+_Bachelor of Arts, Majors in History and Political Science, Minor in English_
 
 `2014-2018`
 __Emma Willard School__
-_Degree Awarded_ 
+
+_High School Diploma Awarded_ 
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
