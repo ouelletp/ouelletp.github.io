@@ -3,9 +3,6 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
-
-Current Position Description
 
 ## Education
 
@@ -21,7 +18,7 @@ _Degree Awarded_
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-## Ocupation
+## Experience 
 
 `August 2020-Present`
 __Head Residential Advisor__, Union College
@@ -35,7 +32,7 @@ __Student Researcher__, Union College
 
 ## Awards and Extracurriculars 
 
-- Phi Alpha Theta, _History Honor Society_; Sigma Tau Delta, _English Honor Society_; Union College Pre-Law Society; Finance Committee, _Union College_; Liaison Committee for Campus Facilities, _Union College_; Mock Trial Regional Champion, 2017
+- Phi Alpha Theta, _History Honor Society_; Sigma Tau Delta, _English Honor Society_; Pre-Law Society, _Union College_; Finance Committee, _Union College_; Liaison Committee for Campus Facilities, _Union College_; Mock Trial Regional Champion, 2017
 
 <!-- ### Footer
 
