@@ -1,18 +1,18 @@
 # Site wide configuration
 
-title: Site Title
+title: Paxton Ouellette
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Paxton Ouellette
+  avatar: IMG_4310.jpg
+  bio: Rising senior at Union College with a focus on United States history and politics.  
+  email: ouelletp@union.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
+  linkedin: Paxton Ouellette
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
@@ -22,8 +22,8 @@ owner:
     analytics:
     verify:
     scholar: #id
-  facebook: #username
-  instagram: #username
+  facebook: Paxton Ouellette
+  instagram: paxtonouellette
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
