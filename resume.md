@@ -23,7 +23,7 @@ _High School Diploma Awarded_
 `August 2020-Present`
 __Head Residential Advisor__, Union College
 
-- In addition to the roles and responsibilities of a Residential Assistant, the Head Residential Advisor addresses and mediates all staff conflicts, builds a community within the staff, and communicates openly and honestly to the Residence Director.
+- In addition to the roles and responsibilities of a Residential Advisor, the Head Residential Advisor addresses and mediates all staff conflicts, builds a community within the staff, and communicates openly and honestly to the Residence Director.
 
 `August 2020-Presen`
 __Student Mentor__, Union College
