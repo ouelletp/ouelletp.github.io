@@ -23,7 +23,7 @@ _High School Diploma Awarded_
 `August 2020-Present`
 __Head Residential Advisor__, Union College
 
-- The Head Residential Advisor addresses and mediates all staff conflicts, builds a community within the staff, and communicates openly and honestly to the Residence Director while facilitating the social, academic, and personal adjustment of students to the residence hall by developing a community between residents as members of a floor through various programs and interactions while upholding and enforcing college policy.
+- In addition to the roles and responsibilities of a Residential Assistant, the Head Residential Advisor addresses and mediates all staff conflicts, builds a community within the staff, and communicates openly and honestly to the Residence Director.
 
 `August 2020-Presen`
 __Student Mentor__, Union College
@@ -36,10 +36,25 @@ __Student Researcher__, Union College
 
 - Assisted in creating a digital scholarly edition of the diaries of Jonathan Pearson (1813-87), a Union student, professor, librarian, treasurer, and trustee.  This experience enabled exploration of the digital humanities, including digitization, digital publishing, scholarly editing, archival research, and computational text analysis.
 
+`August 2019-March 2020`
+__Residential Advisor__, Union College
+
+-Facilitates the social, academic, and personal adjustment of students to the residence hall by developing a community between residents as members of a floor through various programs and interactions while upholding and enforcing college policy.
+
 `July 2016-December 2018`
 __Junior Ranger__, National Park Service
 
 - Researched and wrote about a topic of interest to successfully engage those who came to tour the National Park.  All who give tours must become skilled in interpreting both the objects of Lindenwald and the rooms themself.  
+
+`September 2018-November 2018`
+__Intern__, Faso for Congress
+
+- Served in the campaign by calling residents of NY-19, attending staff briefings, and poll watching in a crucial area during election season. 
+
+`December 2017-March 2018`
+__Intern__, Columbia County District Attorney’s Office
+
+-Provided aid for pending cases in the District Attorney’s office and courthouse.
 
 ## Awards and Extracurriculars 
 
