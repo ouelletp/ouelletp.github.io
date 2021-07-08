@@ -39,7 +39,7 @@ __Student Researcher__, Union College
 `August 2019-March 2020`
 __Residential Advisor__, Union College
 
--Facilitates the social, academic, and personal adjustment of students to the residence hall by developing a community between residents as members of a floor through various programs and interactions while upholding and enforcing college policy.
+- Facilitates the social, academic, and personal adjustment of students to the residence hall by developing a community between residents as members of a floor through various programs and interactions while upholding and enforcing college policy.
 
 `July 2016-December 2018`
 __Junior Ranger__, National Park Service
@@ -54,7 +54,7 @@ __Intern__, Faso for Congress
 `December 2017-March 2018`
 __Intern__, Columbia County District Attorney’s Office
 
--Provided aid for pending cases in the District Attorney’s office and courthouse.
+- Provided aid for pending cases in the District Attorney’s office and courthouse.
 
 ## Awards and Extracurriculars 
 
