@@ -25,7 +25,7 @@ __Head Residential Advisor__, Union College
 
 - In addition to the roles and responsibilities of a Residential Advisor, the Head Residential Advisor addresses and mediates all staff conflicts, builds a community within the staff, and communicates openly and honestly to the Residence Director.
 
-`August 2020-Presen`
+`August 2020-Present`
 __Student Mentor__, Union College
 
 - The student-mentor meets weekly with first-year students who are on the neurodiverse spectrum.  The mentor provides advice regarding academics, social life, and emotional support to facilitate a successful transition to college.
