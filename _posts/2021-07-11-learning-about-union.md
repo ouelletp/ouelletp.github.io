@@ -22,10 +22,11 @@ By using the resources available, you can bring the past back to life.  Images s
 photographs, are able to contextualize what one is reading, while words that are no longer commonly used can 
 be easily defined.  Information such as this is able to enhance the text and provides a road map, allowing 
 for easier mental navigation of materials.  In addition to this, it can allow the reader to be more in touch 
-with what the environment was like when the document was constructed.  
+with what the environment was like when the document was constructed.  I would love to be able to use blueprints 
+of the college during Pearson's time and maps of Schenectady in orde to do this.
 
 ## Benefits of the second-oldest college in New York.
 Given that Union is an old institution (don't worry, 226 looks great on the college), we have access to 
 records from the time that George Washington was still president, from when the Civil War raged, the Great 
-Depression, and so on.  As Jonathan Pearson was located at or around Schenectady for the majority of his l
-ife, we can truly explore the world he found himself in.  On another note, I wonder if he knew FDR's father, <a href="xhttps://www.nps.gov/people/james-roosevelt.htm"> James Roosevelt I,</a> who graduated from Union in 1847! 
+Depression, and so on.  As Jonathan Pearson was located at or around Schenectady for the majority of his 
+life, we can truly explore the world he found himself in.  On another note, I wonder if he knew FDR's father, <a href="xhttps://www.nps.gov/people/james-roosevelt.htm"> James Roosevelt I,</a> who graduated from Union in 1847! 
