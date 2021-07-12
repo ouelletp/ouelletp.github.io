@@ -29,4 +29,4 @@ of the college during Pearson's time and maps of Schenectady in orde to do this.
 Given that Union is an old institution (don't worry, 226 looks great on the college), we have access to 
 records from the time that George Washington was still president, from when the Civil War raged, the Great 
 Depression, and so on.  As Jonathan Pearson was located at or around Schenectady for the majority of his 
-life, we can truly explore the world he found himself in.  On another note, I wonder if he knew FDR's father, <a href="xhttps://www.nps.gov/people/james-roosevelt.htm"> James Roosevelt I,</a> who graduated from Union in 1847! 
+life, we can truly explore the world he found himself in.  On another note, I wonder if he knew FDR's father, <a href="xhttps://www.nps.gov/people/james-roosevelt.htm">James Roosevelt I, </a> who graduated from Union in 1847! 
