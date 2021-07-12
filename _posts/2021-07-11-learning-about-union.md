@@ -3,7 +3,7 @@ layout: post
 title: Out with the old, in with the older.
 excerpt: Did you know FDR has a connection to Union?
 modified: 2/29/2016, 9:00:24
-tags: [digital humanities, beginner, jekyll]
+tags: [digital humanities, beginner, jekyll, history]
 comments: true
 category: blog
 ---
