@@ -1,3 +1,13 @@
+---
+layout: post
+title: Not enough time on my hands.
+excerpt: No one in Styx was a history major.
+modified: 2/29/2016, 9:00:24
+tags: [digital humanities, beginner, jekyll, history]
+comments: true
+category: blog
+---
+
 # Too much information, not enough time.
 
 How do I even begin to think about all the history I have access to this summer?  It's something I'm thinking about with excitement and fear (as my history thesis advisor told me, the only thing I worry about you is that you want to say too much!)  Today we looked at online resources that give us access to what are quite literally millions of documents. If possible, I'd love to look at everything.  However, due to both the time constraint 
