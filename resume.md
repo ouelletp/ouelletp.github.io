@@ -58,12 +58,12 @@ __Intern__, Columbia County District Attorney’s Office
 
 ## Awards and Extracurriculars 
 
- <li> Phi Alpha Theta, __History Honor Society__ </li>
- <li> Sigma Tau Delta, __English Honor Society__ </li>
- <li> Pre-Law Society, __Union College__ </li>
- <li> Finance Committee, __Union College__ </li>
- <li> Liaison Committee for Campus Facilities, _Union College_ </li>
- <li> Dean's List 2019, 2020, __Union College__ </li>
+ <li> Phi Alpha Theta,<b>_History Honor Society</b> </li>
+ <li> Sigma Tau Delta, <b>English Honor Society</b> </li>
+ <li> Pre-Law Society, <b>Union College</b> </li>
+ <li> Finance Committee, <b>Union College</b> </li>
+ <li> Liaison Committee for Campus Facilities,<b>Union College</b> </li>
+ <li> Dean's List 2019, 2020, <b>Union College</b> </li>
  <li> Mock Trial Regional Champion, 2017 </li>
 
 <!-- ### Footer
