@@ -59,7 +59,7 @@ __Intern__, Columbia County District Attorney’s Office
 
 ## Awards and Extracurriculars 
 
- <li> Phi Alpha Theta, <b>_History Honor Society</b> </li>
+ <li> Phi Alpha Theta, <b>History Honor Society</b> </li>
  <li> Sigma Tau Delta, <b>English Honor Society</b> </li>
  <li> Pre-Law Society, <b>Union College</b> </li>
  <li> Finance Committee, <b>Union College</b> </li>
