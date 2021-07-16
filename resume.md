@@ -9,7 +9,8 @@ menutitle: Resume
 `2018-2022`
 __Union College__
 
-_Bachelor of Arts, Majors in History and Political Science, Minor in English_
+_Bachelor of Arts_
+_Majors in History and Political Science, Minor in English_
 
 `2014-2018`
 __Emma Willard School__
