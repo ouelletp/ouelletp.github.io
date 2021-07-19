@@ -13,7 +13,7 @@ category: blog
 I hate to be harsh towards the man, because I’m not quite sure if he ever intended on his diaries being read and even if he did, 
 who could’ve predicted how an individual would react to them two-hundred years in the future.  He wrote some scathing reviews of 
 both his professors and classmates -- something I hope none of them actually read.  Yet his views aren't unique to the time -- 
-women still couldn’t vote in any sort of <a href="https://www.history.com/news/19th-amendment-women-vote-timeline"> election, </a> African Americans were still enslaved or at least considered to be lesser individuals <a href="https://www.brennancenter.org/our-work/research-reports/jim-crow-new-york"> ompared to whites, </a> and religious prejudice was real.  Painfully, we must admit that only one of those things has been fully rectified by 2021 but still, it’s annoying to see in print.
+women still couldn’t vote in any sort of <a href="https://www.history.com/news/19th-amendment-women-vote-timeline"> election, </a> African Americans were still enslaved or at least considered to be lesser individuals <a href="https://www.brennancenter.org/our-work/research-reports/jim-crow-new-york"> compared to whites, </a> and religious prejudice was real.  Painfully, we must admit that only one of those things has been fully rectified by 2021 but still, it’s annoying to see in print.
 
 ## At the same time, Pearson struggled.
 
